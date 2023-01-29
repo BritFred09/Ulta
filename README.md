@@ -1,3 +1,1 @@
-# Ulta
-## test
-testing new repo
+# This project consisted of scraping data for Women's Fragrances from Ulta's website. 
